@@ -1,1 +1,1 @@
-# HunterGame
+# ShootGame
